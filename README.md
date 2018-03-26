@@ -7,4 +7,4 @@ Brief description of the class Collection provided by this library:
   - Behavior of a list (insert by position, delete by position, access by bracktes [], sort, find data)
   - Behavior of a queue (enqueue, dequeue, get front)
   - Behavior of a stack (push, pop, get top)
-  ' Uses templates to store any kind of data or object
+  - Uses templates to store any kind of data or object
