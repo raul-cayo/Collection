@@ -1,7 +1,7 @@
 # Collection
 A data structure using templates with the behavior of a list, queue and stack.
 
-The only header that needs to be included is "colection.hpp"
+The only header that needs to be included is "collection.hpp"
 
 Brief description of the class Collection provided by this library:
   - Behavior of a list (insert by position, delete by position, access by bracktes [], sort, find data)
